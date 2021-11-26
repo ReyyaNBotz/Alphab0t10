@@ -1,21 +1,21 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY Reyy Botz
 
 *さ BANK*
 1. BRI 
-	ㅁ 5074-01-003141-52-8
-		• R***A*DI
+	ㅁ Ga Punya
+		• ....🗿
 		
 *さ E-MONEY*
 1. GOPAY
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ 0852 8256 0607
+		• Rayeenz JB
 2. OVO
-	ㅁ 0887 4350 47326
-		• EL*****TI
+	ㅁ 0882 7157 8191
+		• Re* ***** **i**n
 3. DANA
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ HILANB
+		• Re*** ****
 
 *さ PULSA*
 
